@@ -1,0 +1,27 @@
+Funcrion is a block of statements that performs a specific task. A C program is made up of multiple functions
+
+WHY FUNCTIONS?
+-It helps to organise code
+- make programs easier to understand and manage
+-Avoid repeating the same code again and again.
+
+EX:
+Like givng youur bike fo servicing
+--Give instruction (call the functions)
+--The mechanic knows  the stuff(function executes)
+-- no explaination required
+
+FUNCTION CALL 
+
+Func call:when u ask the function to run.
+Function: Contains the instructions to do the work.
+
+SUMMARY (in a line)
+
+A function in C is a reusable of code that performs a specific job when called.
+
+syntax:
+    Return_type Func_name (Parameter_list){
+        //statements
+        Return_value   //(only when Return_type is not void)
+    }
